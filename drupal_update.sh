@@ -40,7 +40,7 @@ wget http://www.drupalcenter.de/files/drupal-${version}-DE.tar.gz
 tar xvfz drupal-${version}-DE.tar.gz
      
 # in das Verzeichnis drupal-XYZ-DE wechseln
-cd drupal-${version}
+cd drupal-${version}-DE/
      
 # sites Ordner im entpackten Drupal verzeichnis loeschen
 rm -r sites
@@ -56,7 +56,7 @@ echo "nicht benötigte Dateien und Verzeichnisse loeschen"
 sleep 2
      
 # entpacktes Drupal verzeichnis, *tar.gz, und alle *.txt Dateien loeschen, ausser: robots.txt
-rm -r drupal-${version}/
+rm -r drupal-${version}-DE/
 rm -r drupal-${version}-DE.tar.gz
 rm CHANGELOG.txt COPYRIGHT.txt INSTALL.mysql.txt INSTALL.pgsql.txt INSTALL.sqlite.txt INSTALL.txt LICENSE.txt MAINTAINERS.txt README.txt UPGRADE.txt
      
