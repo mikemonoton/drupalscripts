@@ -19,7 +19,7 @@ echo "Seite wird in den Wartzungsmodus gesetzt"
 # Sekunden warten
 sleep 3
 
-# Webseite in den Wartungsmodus setzen
+# Webseite in den Wartungsmodus setzen, dazu muss die "drush" (apt-get install drush) auf dem Server installiert sein
 drush vset --yes maintenance_mode 1
 
 echo "Webseite im Wartungsmodus"
