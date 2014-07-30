@@ -37,3 +37,5 @@ echo "MySQL:"
 echo "Datenbankname: $MYSQLDATABASE"
 echo "Benutzername : $MYSQLUSER"
 echo "Passwort : $MYSQLPASSWORD"
+
+exit 0
