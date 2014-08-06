@@ -1,9 +1,11 @@
 #!/bin/bash
 
-# Script zum ANlegen einer neuen Drupal 7 Installationen
-# Author: mikemonoton
+# Script zum Anlegen einer neuen Drupal 7 Installationen
+# Author: mikemonoton / computerwerkstatt glocksee hannover
 # Datum: 17.06.2014
 # Version: 0.1
+# Web: https://www.glocksee.org
+# Blog: http://blog.glocksee.org
 
 
 # Drupalversion

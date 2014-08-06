@@ -1,7 +1,9 @@
 # Script zum Anlegen einer neuen MySQL-Datenbank/Benutzer mit vollen Rechten
-# Author: mikemonoton
+# Author: mikemonoton / computerwerkstatt glocksee hannover
 # Datum: 17.06.2014
 # Version: 0.1
+# Web: https://www.glocksee.org
+# Blog: http://blog.glocksee.org
 
 # Datenbankserverdaten 
 MYSQLADMIN_USER="root"

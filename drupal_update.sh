@@ -1,9 +1,11 @@
 #!/bin/bash
 
 # Script zum updaten bestehender Drupal 7 Installationen
-# Author: mikemonoton
+# Author: mikemonoton / computerwerkstatt glocksee hannover
 # Datum: 04.01.2013
 # Version: 0.1
+# Web: https://www.glocksee.org
+# Blog: http://blog.glocksee.org
 
 
 # Drupalversion
